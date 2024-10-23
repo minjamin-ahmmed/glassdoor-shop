@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Headphones",
+    "price": 49.99,
+    "description": "Comfortable over-ear headphones with deep bass and 30 hours of battery life.",
+    "category": "Electronics",
+    "image": "https://i5.walmartimages.com/seo/Noise-Cancelling-Bluetooth-Headphones-Wireless-over-Ear-Folding-Rechargeable-Headset-with-Mic-TR905_375d2852-d985-4aa9-b69c-b686da6e513f_1.eef652ba8620bde5c2b792e0ce74f113.jpeg",
+    "inStock": true
+  },
+  {
+    "id": 2,
+    "name": "Stainless Steel Water Bottle",
+    "price": 19.99,
+    "description": "Insulated water bottle that keeps drinks cold for 24 hours.",
+    "category": "Home & Kitchen",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/341912546/LB/KE/NW/196891981/photo-1602143407151-7111542de6e8-500x500.jpg",
+    "inStock": true
+  },
+  {
+    "id": 3,
+    "name": "Men's Casual Sneakers",
+    "price": 69.99,
+    "description": "Lightweight and comfortable sneakers for everyday use.",
+    "category": "Fashion",
+    "image": "https://img.drz.lazcdn.com/g/kf/S54e5ec87a23a40c4a4d532cebc62be81V.jpg_720x720q80.jpg",
+    "inStock": false
+  },
+  {
+    "id": 4,
+    "name": "4K Ultra HD Smart TV",
+    "price": 399.99,
+    "description": "50-inch smart TV with streaming services built-in.",
+    "category": "Electronics",
+    "image": "https://res.cloudinary.com/sharp-consumer-eu/image/fetch/w_3000,f_auto/https://s3.infra.brandquad.io/accounts-media/SHRP/DAM/origin/de0d3686-4766-11ee-8cfb-8ee861fd9236.jpg",
+    "inStock": true
+  },
+  {
+    "id": 5,
+    "name": "Portable Laptop Stand",
+    "price": 29.99,
+    "description": "Adjustable aluminum stand compatible with all laptops.",
+    "category": "Office Supplies",
+    "image": "https://m.media-amazon.com/images/I/61bzOpcYCuL._AC_SL1500_.jpg",
+    "inStock": true
+  },
+  {
+    "id": 6,
+    "name": "Yoga Mat with Carrying Strap",
+    "price": 25.99,
+    "description": "Non-slip yoga mat perfect for home workouts.",
+    "category": "Fitness",
+    "image": "https://static-01.daraz.com.bd/p/52c277eb94ccbaca65bf9943be668e5c.jpg",
+    "inStock": true
+  },
+  {
+    "id": 7,
+    "name": "Wireless Charging Pad",
+    "price": 15.99,
+    "description": "Fast-charging pad for all Qi-compatible devices.",
+    "category": "Electronics",
+    "image": "https://brotherselectronicsbd.com/image/cache/catalog/demo/Accessories/Mophie%20Powerstand/3%20in%201/Wireless%20(1)-800x800.jpg",
+    "inStock": false
+  },
+  {
+    "id": 8,
+    "name": "LED Desk Lamp with USB Port",
+    "price": 39.99,
+    "description": "Dimmable desk lamp with an integrated USB charging port.",
+    "category": "Home & Office",
+    "image": "https://m.media-amazon.com/images/I/712v184omCL._AC_UF1000,1000_QL80_.jpg",
+    "inStock": true
+  },
+  {
+    "id": 9,
+    "name": "Leather Wallet for Men",
+    "price": 24.99,
+    "description": "Slim wallet with RFID-blocking technology.",
+    "category": "Fashion",
+    "image": "https://www.fastfashionbd.com/cdn/shop/products/ORGNWallet08.jpg?v=1641913547&width=600",
+    "inStock": true
+  },
+  {
+    "id": 10,
+    "name": "Smartwatch with Heart Rate Monitor",
+    "price": 89.99,
+    "description": "Fitness tracker with sleep tracking and notifications.",
+    "category": "Electronics",
+    "image": "https://media.product.which.co.uk/prod/images/960_999999/gm-a0da7708-db62-42c1-b97a-88bb22df1f2a-apple-watch-5-ecg-615x369.jpg",
+    "inStock": true
+  }
+]
